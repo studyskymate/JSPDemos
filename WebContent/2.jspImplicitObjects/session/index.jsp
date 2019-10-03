@@ -7,8 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>Registration</h1>
+
 <form action="welcome.jsp">  
-<input type="text" name="uname">  
-<input type="submit" value="go"><br/>  
+Name:    <input type="text" name="uname">  <br>
+RollNumber: <input type="text" name="rollnumber">
+<input type="submit" value="go">
+</form>
+<br/>  
 </body>
 </html>
